@@ -87,3 +87,27 @@
   Lastly we need to integrate with our LLM, I'll be using Claude Desktop.
 
   # Claude Desktop
+
+  We head to settings
+  <p algin="center"> <img width="750" height="160" alt="image" src="https://github.com/user-attachments/assets/a71e6539-7cad-4222-b00f-c73f64b9355d" />
+</p> <br>
+  Bellow the tab `Desktop app` we click on `Developer` and then `Edit Config`
+
+  We are headed to the `claude_desktop_config.json` file we open and paste this. 
+  Past the correct path of your, it is probably not gonna be the same!
+
+  ```{
+  "mcpServers": {
+        "mcp_discordbot": {
+      "command": "C:\\Users\\user\\Desktop\\mcp_discordbot\\devenv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\user\\Desktop\\mcp_discordbot\\server.py"
+      ]
+    }
+  }
+}
+```
+
+Now we terminate the app completely and open it again.
+If everything went fine we 'll see this:
+  
