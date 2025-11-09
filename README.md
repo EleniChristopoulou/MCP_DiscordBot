@@ -35,4 +35,12 @@
 
   Click “Reset Token” (if needed), then Copy Token.
 
+  In the left sidebar, go to “OAuth2 → URL Generator.”
+
+  Under Scopes, check ✅ bot.
+  
+  Under Bot Permissions, choose what your bot should be allowed to do (e.g., Send Messages, Manage Roles, etc.). Ipersonally gave permissions of an admin, not the best practice, it is just to make sure it's working.
+  
+  Copy the generated URL, paste it into your browser, and choose the server to invite your bot to.
+  
   You’ll need this to connect your bot’s code to Discord.
