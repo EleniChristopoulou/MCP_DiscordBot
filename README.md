@@ -78,4 +78,12 @@
   ```Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned``` <br>
   ```./devenv/Scripts/activate``` <br>
   ```pip install mcp mcp[cli]``` <br>
-  ```mdp ```
+  ```mcp dev server.py``` (Server.py is the name of my scirpt btw.
+
+  A page opens after that: We input the following parameters and click  `Connect` <br>
+  <p align="center"> <img width="265" height="305" alt="image" src="https://github.com/user-attachments/assets/0e30c752-eaba-49f7-94cf-2c940db88273" /> </p>
+
+  Now our server is up and running!
+  Lastly we need to integrate with our LLM, I'll be using Claude Desktop.
+
+  # Claude Desktop
