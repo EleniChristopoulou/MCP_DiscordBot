@@ -30,7 +30,7 @@
   Under Scopes, check ✅ bot.
   Lastly do not forget to activate the following.
 
-  <p align="center"> <img width="1473" height="514" alt="image" src="https://github.com/user-attachments/assets/d207bf2a-030c-4c72-87bc-6027e2a7c7e3" /></p>
+  <p align="center"> <img width="750" height="255" alt="image" src="https://github.com/user-attachments/assets/d207bf2a-030c-4c72-87bc-6027e2a7c7e3" /></p>
 
 
 ## Step3: 
