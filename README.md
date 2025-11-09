@@ -121,6 +121,6 @@ Now we are ready to prompt.
  </p>
 
  Heading back to our server we see the output:
- <p align="center"> <img width="1434" height="806" alt="image" src="https://github.com/user-attachments/assets/ac996fd3-afa4-41c2-ba8e-a4dc3197b54e" /> </p>
+ <p align="center"> <img width="717" height="400" alt="image" src="https://github.com/user-attachments/assets/ac996fd3-afa4-41c2-ba8e-a4dc3197b54e" /> </p>
 
   
