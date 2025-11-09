@@ -110,4 +110,17 @@
 
 Now we terminate the app completely and open it again.
 If everything went fine we 'll see this:
+
+<p align="center> <img width="300" height="275" alt="image" src="https://github.com/user-attachments/assets/d20e0874-437e-4ee4-959b-129d8f97d16d" /> </p>
+
+Now we are ready to prompt.
+
+`use the write message tool and write a message saying 10 facts about discord mcp bots`
+
+<p align="center"><img width="575" height="242" alt="image" src="https://github.com/user-attachments/assets/eee7b18c-dd08-4df2-a6d7-950ba6d9a37c" />
+ </p>
+
+ Heading back to our server we see the output:
+ <p align="center"> <img width="1434" height="806" alt="image" src="https://github.com/user-attachments/assets/ac996fd3-afa4-41c2-ba8e-a4dc3197b54e" /> </p>
+
   
