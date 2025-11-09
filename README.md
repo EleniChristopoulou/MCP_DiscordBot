@@ -70,5 +70,12 @@
 
   Now we copy the script into the directory.
   It's time to paste our vaules in! 
+  Do not forget to get rid ofthe txt file now.
 
   <p align="center"> <img width="660" height="335" alt="image" src="https://github.com/user-attachments/assets/48d2d8a6-8c3a-4bee-ad8a-3951402e0096" /> </p>
+
+  ```python -m venv devenv``` <br>
+  ```Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned``` <br>
+  ```./devenv/Scripts/activate``` <br>
+  ```pip install mcp mcp[cli]``` <br>
+  ```mdp ```
