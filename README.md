@@ -47,6 +47,17 @@
   Turn on the switch for Developer Mode. ✅ <br>
 
   Go to your server in Discord.
+  
+# Visual Studio Code
+
+  When opening the Visual Studio Code
+  we 'll now make a directory just for our project
+
+  `mkdir 'NameOfMyDir'`
+  `cd 'NameOfMyDir'`
+  
+## Script
+  Now it the part where we 'll download the script locally
   Right-click on the server name or icon (in the left sidebar).
   Select “Copy Server ID.” Paste it temporarily in the smae txt file, our token is.
 
