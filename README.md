@@ -47,21 +47,28 @@
   Turn on the switch for Developer Mode. ✅ <br>
 
   Go to your server in Discord.
+  Right-click on the server name or icon (in the left sidebar).
+  Select “Copy Server ID.” Paste it in the txt where our token is.
+
+  Lastly:
+  Open your server.
+  Right-click on the channel name (in the sidebar).
+  Click “Copy Channel ID.” Paste it in the txt as well.
   
-# Visual Studio Code
-
-  When opening the Visual Studio Code
-  we 'll now make a directory just for our project
-
-  `mkdir 'NameOfMyDir'`
-  `cd 'NameOfMyDir'`
+# Visual Studio Code  
   
 ## Script
   Now it the part where we 'll download the script locally
   Right-click on the server name or icon (in the left sidebar).
   Select “Copy Server ID.” Paste it temporarily in the smae txt file, our token is.
 
-  Lastly:
-  Open your server.
-  Right-click on the channel name (in the sidebar).
-  Click “Copy Channel ID.” Paste it in the txt as well.
+    When opening the Visual Studio Code
+  we 'll now make a directory just for our project.
+
+  ```mkdir 'NameOfMyDir'``` <br>
+  ```cd 'NameOfMyDir'```
+
+  Now we copy the script into the directory.
+  It's time to paste our vaules in! 
+
+  <p align="center"> <img width="660" height="335" alt="image" src="https://github.com/user-attachments/assets/48d2d8a6-8c3a-4bee-ad8a-3951402e0096" /> </p>
