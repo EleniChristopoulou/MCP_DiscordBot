@@ -15,7 +15,7 @@
 
 ## Step2: Create a Discord bot
 
-  Go to the [Discord Developer Portal]([https://github.com/EleniChristopoulou/DVWA_Initial_Setup-/tree/main](https://discord.com/developers/applications])
+  Go to the [Discord Developer Portal](https://discord.com/developers/applications)
   
   Click “New Application.”
   
